@@ -1,10 +1,10 @@
-Name : Bulk PDF Encryption Utility
+**Name : Bulk PDF Encryption Utility**
 
-Author : Nikhil Raj ( Twitter: 0xn1k5 | Mail: nikhilraj149[at]gmail.com  )
+**Author : Nikhil Raj ( Twitter: 0xn1k5 | Mail: nikhilraj149[at]gmail.com  )**
 
-Version: 1.0
+**Version: 1.0**
 
-Last Updated : 17 July 2022
+**Last Updated : 17 July 2022**
 
 # Description
  Powershell Based utility to encrypt / password protect PDF files with unique password for each file
